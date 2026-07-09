@@ -1,0 +1,7 @@
+[33mea7857e[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m Initial commit without pkl files
+[33mbb491b8[m Add 'tags' column to movie dataset and update notebook outputs
+[33m3cf9e33[m Refactor Jupyter notebook to clean up movie data formatting and enhance overview, genres, keywords, cast, and crew representations
+[33m1cf0b07[m Add functions to process movie cast and crew data in Jupyter notebook
+[33m038ddb0[m Update Jupyter notebook to adjust execution counts and enhance data display
+[33ma7d07c3[m Update Jupyter notebook to correct execution counts and clean up output formatting
+[33m8d144a6[m Add initial Jupyter notebook and dataset files for movie recommender system
